@@ -1,0 +1,49 @@
+{
+  "primary_constraint": "CTA / conversion bridge from qualified profile visitors to a course-specific next step.",
+  "change_now": "Install one clear, course-specific conversion path for direct-to-camera posts: each relevant post should direct viewers to one low-friction action tied to the course outcome, using a consistent CTA, destination, and follow-up mechanism.",
+  "why": "Direct-to-camera content is still producing attention and appears to be increasing interest in Pop personally, as shown by higher profile visits. Leads remain flat, so the first meaningful leakage is likely between profile interest and lead capture rather than at content reach. The course path is probably unclear, too generic, too high-friction, or insufficiently congruent with the content viewers just consumed.",
+  "evidence": [
+    "Direct-to-camera posts are continuing to outperform, indicating that the personality-plus-proof content direction remains effective.",
+    "Profile visits are up, indicating that content is generating curiosity and movement toward Pop's destination.",
+    "Leads are flat, indicating that increased profile traffic is not becoming identifiable intent or course-path entry.",
+    "Historical Pop context suggests authority exists, while direct-to-camera content was introduced to strengthen familiarity and trust; current performance indicates this trust-building direction should be preserved."
+  ],
+  "what_is_already_working": [
+    "Direct-to-camera content is outperforming.",
+    "Pop's personality-led authority format is generating increased profile interest.",
+    "The combination of Pop speaking, visual proof, process, and teaching remains the strongest validated content direction."
+  ],
+  "do_not_change": [
+    "Do not replace the direct-to-camera content format with generic visual-only filmmaking posts.",
+    "Do not optimize for more reach before fixing the profile-visit-to-lead leakage.",
+    "Do not remove cinematic proof, BTS, process reveals, or filmmaking teaching from the content.",
+    "Do not introduce multiple competing CTAs, lead magnets, products, or destinations at once."
+  ],
+  "actions": [
+    "Choose one course-aligned entry action for the next 14 days, such as a free filmmaking training, course-specific PDF, workshop waitlist, or application only if the course requires a higher-trust sale.",
+    "Create a dedicated landing page or DM automation whose headline mirrors the promise of the direct-to-camera content, not a generic 'link in bio' destination.",
+    "Use one explicit CTA in relevant posts: name the viewer problem, state the immediate outcome, and tell them exactly what to comment, DM, or click.",
+    "Make the Instagram bio and primary link reflect the same course-specific path during the test period.",
+    "Tag each CTA-bearing post and measure the full path from post reach to profile visit to link click or DM to lead to course sale."
+  ],
+  "expected_effect": "More of the existing profile-visit volume should convert into measurable course-related leads without requiring a change to the currently working attention and trust engine. If visitor quality is healthy, lead volume should rise before course sales do.",
+  "confidence_0_to_100": 78,
+  "next_measurements": [
+    "Profile visits per direct-to-camera post.",
+    "Profile visit to link-click rate.",
+    "Profile visit to DM-start rate, if using a DM keyword CTA.",
+    "Landing-page conversion rate to lead.",
+    "Lead-to-course-sale conversion rate.",
+    "Number of course sales and revenue attributed to CTA-bearing direct-to-camera posts.",
+    "Qualified replies, DMs, and lead quality by content topic."
+  ],
+  "review_condition": "Review after 10 to 15 direct-to-camera posts using the same primary course path, or after enough traffic to compare profile visits, clicks or DMs, leads, and sales against the prior 14-day baseline. If profile visits convert into leads but sales remain flat, the next constraint is likely course offer congruence or sales conversion rather than CTA.",
+  "missing_data": [
+    "Current course offer, price, promised transformation, and intended buyer.",
+    "Current Instagram bio, link destination, landing page, and existing CTA language.",
+    "Current profile-visit volume, link clicks, DMs, opt-ins, leads, and course sales by period.",
+    "Whether the flat leads are low-quality, unqualified, or simply absent.",
+    "Whether direct-to-camera posts are attracting the intended course buyer rather than general filmmaking viewers.",
+    "Current lead follow-up process and lead-to-sale conversion rate."
+  ]
+}

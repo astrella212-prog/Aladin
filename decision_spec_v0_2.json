@@ -1,0 +1,50 @@
+{
+  "name": "aladin_deep_diagnosis_v0_2",
+  "version": "0.2",
+  "required_output": {
+    "primary_constraint": "string",
+    "change_now": "string",
+    "why": "string",
+    "evidence": [
+      "string"
+    ],
+    "evidence_against": [
+      "string"
+    ],
+    "second_most_likely_constraint": "string",
+    "why_second_loses": "string",
+    "what_is_already_working": [
+      "string"
+    ],
+    "do_not_change": [
+      "string"
+    ],
+    "actions": [
+      "string"
+    ],
+    "smallest_falsification_experiment": "string",
+    "expected_effect": "string",
+    "confidence_0_to_100": "integer",
+    "next_likely_bottleneck": "string",
+    "bottleneck_shift_signal": "string",
+    "next_measurements": [
+      "string"
+    ],
+    "review_condition": "string",
+    "missing_data": [
+      "string"
+    ]
+  },
+  "rules": [
+    "Choose one primary constraint unless a second is inseparable.",
+    "Do not fabricate evidence.",
+    "Separate facts, interpretations, and hypotheses.",
+    "Preserve variables that are already working.",
+    "Do not fix an earlier stage if a later stage is the active economic constraint.",
+    "Make a best-available strategic bet when data is incomplete unless the action is high-risk or irreversible.",
+    "Include evidence against the diagnosis.",
+    "Name the second-most-likely constraint and explain why it loses.",
+    "Define a falsification experiment.",
+    "Predict the next bottleneck and the signal that indicates the bottleneck has moved."
+  ]
+}
